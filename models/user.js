@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 var bcrypt = require('bcryptjs');
-mongoose.connect('mongodb://localhost/loginapp', {
+mongoose.connect('mongodb://localhost/elbayass', {
   useMongoClient: true
 });
 
