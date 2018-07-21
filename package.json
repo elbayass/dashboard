@@ -1,12 +1,12 @@
 {
-  "name": "tutojs",
+  "name": "dashboard",
   "version": "1.0.0",
-  "description": "site avec express et passport",
+  "description": "dashboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Silver Crow (joris vidéo)",
+  "author": "Yassine El bahloussi",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
